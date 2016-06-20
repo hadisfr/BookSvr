@@ -1,0 +1,59 @@
+y
+ahmad
+123
+help
+logout
+n
+y
+ali
+123
+newBook 2 ahmad diary
+logout
+n
+n
+admin
+123
+unblock diary
+logout
+n
+n
+ali
+123
+list
+loadBook diary
+addChapter diary intro 0
+addChapter diary first 1
+loadBook diary
+add diary 0 0 hello hi
+add diary 0 0 Ladies & Gentelmans
+newVer diary 0 1
+show diary 0
+show diary 1
+add diary 0 2 bye bye
+remove diary 0 1
+newVer diary 0
+show diary 0
+showPrev diary 0 1
+revVer diary 0
+add diary 0 0 In the Name of God
+newVer diary 0
+show diary 0
+listChapters diary
+sync diary 0
+logout
+n
+n
+ali
+123
+list
+loadBook diary
+listChapters diary
+show diary 0
+logout
+n
+n
+admin
+123
+publish diary
+logout
+y
